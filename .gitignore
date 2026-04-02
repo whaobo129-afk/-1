@@ -1,0 +1,17 @@
+# Python specific
+__pycache__/
+*.pyc
+*.pyo
+
+# Virtual environment
+venv/
+ENV/
+env/
+
+# IDE settings
+.idea/
+.vscode/
+
+# Project specific ignores
+*.log
+*.sqlite3
